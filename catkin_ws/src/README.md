@@ -1,3 +1,3 @@
 ```
-Add your ROS2 packages here!
+Add your ROS packages here!
 ```
